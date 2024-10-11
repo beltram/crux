@@ -9,7 +9,7 @@ members = [
     "crux_time",
     "doctest_support",
 ]
-exclude = ["templates"]
+exclude = ["templates/simple_counter"]
 resolver = "1"
 
 [workspace.package]
